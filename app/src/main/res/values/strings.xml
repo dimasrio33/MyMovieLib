@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyMovieLib</string>
+
+
+    <string name="title_text">Select Languages:</string>
+    <string name="btn_en">English</string>
+    <string name="btn_in">Indonesia</string>
+
+
+    <string name="title">Project</string>
+    <string name="sinopsis">Synopsis </string>
+    <string name="overview_sinopsis">Overview / Sinopsis film</string>
+    <string name="_29_Oktober_2018">16 Juni 2018 </string>
+    <string name="release_date"> Release Date :</string>
+    <string name="score"> Score </string>
+
+
+    <string name="overview_sinopsis_film">Overview / Sinopsis film</string>
+
+
+
+
+
+</resources>
